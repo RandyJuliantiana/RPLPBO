@@ -3,3 +3,4 @@ project kedepannya :
 - belajar merangkai listing program yang sudah dipelajari
 - membaut konsep untuk project website yang ingin dibuat (php)
 - membuat website
+- mengembangkan website dengan hosting 

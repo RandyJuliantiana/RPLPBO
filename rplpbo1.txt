@@ -4,3 +4,4 @@ project kedepannya :
 - membaut konsep untuk project website yang ingin dibuat (php)
 - membuat website
 - mengembangkan website dengan hosting 
+- membagikan wawasan dengan membuka kursus
